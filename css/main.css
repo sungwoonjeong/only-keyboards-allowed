@@ -52,6 +52,10 @@ html {
   color: rgba(180, 220, 255, .6);
 }
 
+a:focus {
+  outline: 3px solid #fff;
+}
+
 .masthead a {
   border-bottom: .2em solid rgba(255, 255, 255, .6);
 
